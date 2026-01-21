@@ -1,6 +1,12 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdellah+Hammouch;Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+SQL;Problem+Solver+%26+Backend+Focused" />
+</h1>
+
 <img align="right" width="320" src="https://media.giphy.com/media/HOiAe2wA8RftbE59dc/giphy.gif" />
 
-# Salut 👋, je suis Abdellah Hammouch
+### 🚀 Développeur Web Full Stack
+🎓 Étudiant en développement web chez **YouCode (UM6P)**
+
 
 ### 🚀 Développeur Web Full Stack
 🎓 Étudiant en développement web chez **YouCode (UM6P)**
