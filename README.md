@@ -4,9 +4,6 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/HOiAe2wA8RftbE59dc/giphy.gif" />
 
-### 🚀 Développeur Web Full Stack
-🎓 Étudiant en développement web chez **YouCode (UM6P)**
-
 
 ### 🚀 Développeur Web Full Stack
 🎓 Étudiant en développement web chez **YouCode (UM6P)**
