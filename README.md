@@ -1,6 +1,6 @@
-<img align="right" width="350" src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif" />
 
 # Salut 👋, je suis Abdellah Hammouch
+<img align="right" width="350" src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif" />
 
 ### 🚀 Développeur Web Full Stack
 🎓 Étudiant en développement web chez **YouCode (UM6P)**
