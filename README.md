@@ -1,18 +1,10 @@
+<img align="right" width="320" src="https://media.giphy.com/media/HOiAe2wA8RftbE59dc/giphy.gif" />
 
 # Salut 👋, je suis Abdellah Hammouch
-<img align="right" width="350" src="https://media.giphy.com/media/QKDpE67Rc7rpjBmQPj/giphy.gif" />
 
 ### 🚀 Développeur Web Full Stack
 🎓 Étudiant en développement web chez **YouCode (UM6P)**
 
-Je conçois des applications web modernes, performantes et bien structurées,  
-avec un fort accent sur **l’architecture backend**, la **logique métier** et la **qualité du code**.
-
-Je travaille principalement sur des projets intégrant :
-- Authentification & rôles
-- Dashboards & CRUD
-- Architecture MVC from scratch
-- Applications PHP / Laravel réelles
 
 ---
 
@@ -44,12 +36,12 @@ Je travaille principalement sur des projets intégrant :
 ---
 
 ### 🧠 Problem Solving & Fundamentals
-- Problem Solving & Logical Thinking
-- Algorithms & Data Structures (Basics)
-- Debugging & Error Handling
-- Clean Code & Best Practices
-- MVC Architecture (from scratch)
-- Authentication & Role Management (Sessions)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-Logical_Thinking-purple?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Data_Structures-blue?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-Error_Handling-red?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Best_Practices-success?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-From_Scratch-orange?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Auth-Sessions_&_Roles-yellow?style=for-the-badge)
 
 ---
 
@@ -59,7 +51,7 @@ Je travaille principalement sur des projets intégrant :
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-🐧 Linux (Ubuntu / Fedora) • CLI • Apache • Git workflow
+![Linux](https://img.shields.io/badge/Linux-Ubuntu_&_Fedora-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
